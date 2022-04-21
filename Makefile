@@ -1,5 +1,5 @@
 #
-# To sa opcje dla kompilacji
+#  To sa opcje dla kompilacji
 #
 CXXFLAGS=-g -Iinc -Wall -pedantic -std=c++11
 
